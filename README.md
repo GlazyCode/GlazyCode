@@ -1,16 +1,73 @@
 ## Hi there 👋
 
-<!--
-**GlazyCode/GlazyCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I’m Glazy 👋  
+### BSIT Student | Aspiring System Builder | Growth-Oriented Developer
 
-Here are some ideas to get you started:
+I’m a BSIT student who enjoys building **practical systems**, learning by doing, and improving a little every day.  
+I believe that **discipline, clarity, and consistency** matter more than hype.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> “Debug yourself before debugging your code.”
+
+---
+
+## 🚀 About Me
+- 💻 BSIT Student  
+- 🧠 Interested in **web systems, backend logic, and real-world applications**
+- 🔧 I prefer building **useful systems** over small demo projects
+- 📈 Focused on **long-term growth**, not shortcuts
+
+---
+
+## 🧰 Tech Stack
+**Languages & Tools I Use:**
+- HTML, CSS, JavaScript  
+- PHP & MySQL  
+- Java (OOP Fundamentals)  
+- Python (Basics)  
+- Git & GitHub  
+
+**Currently Learning:**
+- JavaScript (deeper fundamentals)
+- Backend logic & system design
+- Clean code & better structure
+
+---
+
+## 📌 Current Projects
+- ⛪ **Church Tithes & Offering Management System**  
+  Web-based system using PHP, MySQL, and XAMPP  
+
+- 🌐 **Personal Portfolio Website**  
+  A digital profile showcasing projects, creativity, and discipline  
+
+- 🧪 Practice projects to strengthen logic, CRUD operations, and UI structure
+
+---
+
+## 🎯 Goals
+- Build production-ready web systems  
+- Improve problem-solving and debugging skills  
+- Graduate with a strong portfolio  
+- Become a disciplined, reliable developer
+
+---
+
+## 🎨 Beyond Coding
+- 📸 Photography  
+- 🎥 Videography  
+- 🎸 Playing musical instruments  
+- 🏋️ Fitness & self-discipline  
+
+I believe creativity and discipline outside coding improve how I think as a developer.
+
+---
+
+## 📫 Connect With Me
+- GitHub: **@GlazyCode**
+- Portfolio: *(coming soon)*
+
+---
+
+### 🧠 Philosophy
+**Code with clarity. Grow with discipline.**  
+Small progress every day beats motivation once a week.
