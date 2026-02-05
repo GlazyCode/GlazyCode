@@ -57,7 +57,8 @@ I believe that **discipline, clarity, and consistency** matter more than hype.
 - 🎥 Videography  
 - 🎸 Playing musical instruments  
 - 🏋️ Fitness & self-discipline  
-- Digital designing
+- 👩🏻‍💻🎨 Digital designing
+  
 I believe creativity and discipline outside coding improve how I think as a developer.
 
 ---
