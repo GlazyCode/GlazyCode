@@ -65,7 +65,7 @@ I believe that **discipline, clarity, and consistency** matter more than hype.
 
 ## 📫 Connect With Me
 - GitHub: **@GlazyCode**
-- Portfolio: *https://glazycode.github.io/*
+- Portfolio: *https://glazycode.github.io/GlazyCode-Portfolio-/index.html*
 
 ---
 
