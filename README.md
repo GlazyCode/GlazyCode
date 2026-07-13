@@ -67,10 +67,11 @@
 </div>
 ###
 
-<a href="https://pjdev.vercel.app/" target="portfolio">
-  <img src="https://shields.io" alt="Live Demo Button" />
-</a>
-
+<p align="center">
+  <a href="https://pjdev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-ff9800?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
 ###
 
