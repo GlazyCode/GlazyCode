@@ -64,8 +64,27 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <a href="https://pjdev.vercel.app/">Visit My Portfolio</a>
 </div>
+###
+
+<style>
+  .btn-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #28a745; /* Green background */
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;        /* Rounded corners */
+    font-weight: bold;
+    transition: background 0.2s;
+  }
+
+  .btn-link:hover {
+    background-color: #218838; /* Darker green on hover */
+  }
+</style>
+
+<a href="https://pjdev.vercel.app/" class="btn-link">Visit My Portfolio</a>
 
 ###
 
