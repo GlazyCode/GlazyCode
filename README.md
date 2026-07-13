@@ -67,24 +67,10 @@
 </div>
 ###
 
-<style>
-  .btn-link {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #28a745; /* Green background */
-    color: white;
-    text-decoration: none;
-    border-radius: 5px;        /* Rounded corners */
-    font-weight: bold;
-    transition: background 0.2s;
-  }
+<a href="https://pjdev.vercel.app/" target="portfolio">
+  <img src="https://shields.io" alt="Live Demo Button" />
+</a>
 
-  .btn-link:hover {
-    background-color: #218838; /* Darker green on hover */
-  }
-</style>
-
-<a href="https://pjdev.vercel.app/" class="btn-link">Visit My Portfolio</a>
 
 ###
 
