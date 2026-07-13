@@ -54,7 +54,7 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/GlazyCode/GlazyCode/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/a0f0a3d2ab9631b370485e79018c48c67b139ab6/public/assets/snake.svg" alt="Snake animation" />
 
 ###
 
